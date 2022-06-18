@@ -1,0 +1,12 @@
+C:\Boffins\Microservices\OrderManagement\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Boffins\Microservices\OrderManagement\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Boffins\Microservices\OrderManagement\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Boffins\Microservices\OrderManagement\Contracts\obj\Debug\net6.0\ref\Contracts.dll
